@@ -17,14 +17,12 @@ et de coopéréer avec la fillière artistique en tant que lead du projet
 
 ### 1. Gestion de projet
 
-Le multithreading m'a appris à diviser les tâches me permettant de réaliser 
-plusieurs opérations en même temps (ici le lien client serveur et le gameplay)
+Respecter la deadline de chaque tâche, favoriser les tâches les plus importantes...
 
 
 ### 2. Contourner les difficultés
 
-Les packets servent à envoyer tout les informations de ce que l'on réalise en jouant (tirer, avancer...),
-Ils sont envoyés au serveur qu'il va ensuite distribuer à tout les clients pour mettre à jour le jeu/
+Trouver des moyens pour minimiser les problèmes d'un moteur incomplet.
 
 
 ## 🚀 Améliorations Futures
