@@ -7,8 +7,7 @@
 > **Durée du projet :** 3 semaines
 
 ## 📖 Introduction
-Ce projet a été conçu dans le but principal de travailler sur un moteur de jeu inconnu pas entièrement fonctionnel afin de nous mettre à l'épreuve sur les difficuktés que nous allion rencontrés dessus
-et de coopéréer avec la fillière artistique en tant que lead du projet
+Ce projet a été conçu dans le but principal de travailler sur un moteur de jeu inconnu, pas entièrement fonctionnel, afin de nous mettre à l'épreuve sur les difficultés que nous allions rencontrer dessus et de coopéréer avec la fillière artistique en tant que lead du projet
 
 ## 🛠️ Stack Technique
 * **Moteur :** GCE engine (moteur de jeu de l'école)
@@ -28,8 +27,8 @@ Trouver des moyens pour minimiser les problèmes d'un moteur incomplet.
 
 
 ## 🚀 Améliorations Futures
-Si je devais continuer ce projet, je me concentrerais sur :
-* Fixer tout les bugs
+Si je devais continuer ce projet, je me concentrerai sur :
+* Fixer tous les bugs
 * Ajouter les sprites de l'équipe artistique
 * Avoir un meilleur niveau
   
